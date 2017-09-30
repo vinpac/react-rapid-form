@@ -1,0 +1,30 @@
+{
+  "name": "react-rapid-form",
+  "description": "Components for creating Form React",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinpac/react-rapid-form"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-form",
+    "components"
+    "form",
+    "form-component"
+  ],
+  "author": "Vinicius Pacheco <vin175pacheco@gmail.com> (http://github.com/vinpac)",
+  "main": "./src/index.js",
+  "bugs": {
+    "url": "https://github.com/vinpac/react-rapid-form/issues"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0-0 || ^16.0.0-0"
+  },
+  "files": [
+    "README.md",
+    "src"
+  ]
+}
